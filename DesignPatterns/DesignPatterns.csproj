@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Creational\" />
     <Folder Include="Behavioural\" />
+    <Folder Include="Creational\SingleTon\" />
     <Folder Include="SOLID\LiskovSubstitution\Square\" />
     <Folder Include="Structural\" />
   </ItemGroup>
